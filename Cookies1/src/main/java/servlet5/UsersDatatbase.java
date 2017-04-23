@@ -9,6 +9,7 @@ public class UsersDatatbase {
 	public UsersDatatbase(){
 		userDB.put("user1", "admin");
 		userDB.put("user2", "admin2");
+		userDB.put("user3", "admin3");
 		
 	}
 	
