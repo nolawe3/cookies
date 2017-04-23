@@ -1,7 +1,7 @@
 package servlet5;
 
 import java.util.LinkedHashMap;
-//this is it Change to Defualt2
+//this is it Change to Defualt2 from 2nd developer
 public class UsersDatatbase {
 	private User user;
 	private LinkedHashMap<String, String> userDB = new LinkedHashMap();
